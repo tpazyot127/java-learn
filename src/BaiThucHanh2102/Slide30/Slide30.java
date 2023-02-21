@@ -1,8 +1,8 @@
-package BaiTap21Thang2.vong_lap_while;
+package BaiThucHanh2102.Slide30;
  
 import java.util.Scanner;
  
-public class TinhTongCacChuSo {
+public class Slide30 {
  
     public static void main(String[] args) {
         int number, balance;
