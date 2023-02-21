@@ -1,4 +1,4 @@
-package vong_lap_while;
+package BaiTap21Thang2.vong_lap_while;
  
 import java.util.Scanner;
  
@@ -23,7 +23,7 @@ public class TinhTongCacChuSo {
             number /= 10;
         }
          
-        System.out.println("the sum character is  = " + sum);
+        System.out.println("the sum character is = " + sum);
     }
  
 }
