@@ -1,18 +1,22 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+22_23_K2_Nhom 12_Java OOP-7080512 project
 
-## Folder Structure
+- [JAVA] application
 
-The workspace contains two folders by default, where:
+```sh
+// BaiThucHanhLab1
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+    BaiThucHanhLab1/src
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+// BaiThucHanhLab2
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+    BaiThucHanhLab2/src
 
-## Dependency Management
+// BaiThucHanhLab3
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+    BaiThucHanhLab3/src
+
+
+
+```
